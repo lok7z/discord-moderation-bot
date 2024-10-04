@@ -42,5 +42,5 @@ Un bot Discord complet pour la modération, la gestion des salons et l'attributi
 
 1. **Clonez le dépôt :**
    ```bash
-   git clone https://github.com/lok7z/bot.git
+   git clone https://github.com/lok7z/discord-moderation-bot.git
    cd discord-moderation-bot
